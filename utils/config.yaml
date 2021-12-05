@@ -1,0 +1,9 @@
+"""Configurations for parsing script"""
+
+to_print: True
+
+# Resourses
+
+KINOPOISK_PAGES: [
+    'https://webcache.googleusercontent.com/search?q=cache:UpvaQD3kJLgJ:https://www.kinopoisk.ru/film/328/reviews/+&cd=1&hl=en&ct=clnk&gl=ru',
+]
